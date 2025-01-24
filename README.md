@@ -20,6 +20,8 @@
 
 **references:**
 
+lezer:
+
 - https://lezer.codemirror.net/
 - https://lezer.codemirror.net/docs/guide/
 - https://github.com/lezer-parser
